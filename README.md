@@ -1,0 +1,1 @@
+This is the repository for Spacecrash, an Atari-style adventure game where your crew has crash landed on some strange planet and you must navigate the region collecting the space modules to power your ship and return home.
