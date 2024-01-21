@@ -1,0 +1,21 @@
+//Full Changelog for the 1-21-2024 release of Spacecrash//
+> General
+  - Added various transitions between screens that originally had none
+  - 3 new tracks for each of the areas
+  - Ending is completely changed
+  - New way of repairing the ship and placing the modules
+  - Added a secret ending
+  - Various dialogue tweaks and updates
+> Crashsite
+  - New interior to the spaceship
+  - New items to repair to get to the ending
+  - New computer to show you what you are still missing
+    - Also serves to activate the new ending
+> Desert
+  - Whole new quest in the area to replace the old quest
+  - Adjusted old man dialogue to change the quest
+> Forest
+  - Added new transitions between the different rooms
+  - Dialogue appears letting you know you are lost with special transition
+> River
+  - Updated the tilemap to prevent confusion on what is and is not accessible
